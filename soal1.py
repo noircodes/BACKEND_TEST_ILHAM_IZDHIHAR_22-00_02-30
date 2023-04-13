@@ -8,7 +8,7 @@ def bintang_segitiga(n):
     for i in range(n):
         print("*"*(i+1))
 
-# bintang_segitiga(5)
+bintang_segitiga(5)
 
 #4. Mengecek Bilangan Prima
 def is_prime(n):
